@@ -1,12 +1,10 @@
 # **KANBAN-PROJECT-GROUP-5**
 
 
-## Group Members
+## Developer
  
-- Sergio Lopez
 - Quang Le
-- Anthony Nunez
-- Elton Tran
+
  
 ## Project Requirements 
 
